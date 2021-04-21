@@ -1,7 +1,3 @@
-'''
-Name: Santosh Kumar Kasam
-M no: 1533833
-'''
 import torch
 import torch.nn as nn
 
